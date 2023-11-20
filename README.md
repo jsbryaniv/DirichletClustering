@@ -2,6 +2,8 @@
 
 This project demonstrates the use of a Dirichlet process for clustering in the context of predicting clinical outcomes. It includes a model class that samples variables from a posterior given data, employing Gibbs sampling to estimate parameters for maximum a posteriori estimation.
 
+For this work we also created a [companion manuscript](https://jsbryaniv.github.io/dirichlet-for-clinical-outcome-prediction/) where we show how to derive the math and code that underlies this method.
+
 ## Usage
 
 We provide an example that demonstrates the method applied to a dataset for diabetes diagnosis prediction.
